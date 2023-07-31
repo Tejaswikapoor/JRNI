@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "37m6R9xdTH0JcrLelVmtH7cFJ8O76hqU+wMkpfwzdbdldNPQ7mfXfFkHUXKVzEBI1Kpnb4wOTmCoOZjEIFWPPA==",
+  "success": true,
+  "projectFilePath": "/Users/tejaswikapoor/Projects/JRNIProject/JRNIProject/JRNIProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/tejaswikapoor/.nuget/packages/google.apis/1.61.0/google.apis.1.61.0.nupkg.sha512",
+    "/Users/tejaswikapoor/.nuget/packages/google.apis.auth/1.61.0/google.apis.auth.1.61.0.nupkg.sha512",
+    "/Users/tejaswikapoor/.nuget/packages/google.apis.calendar.v3/1.61.0.3116/google.apis.calendar.v3.1.61.0.3116.nupkg.sha512",
+    "/Users/tejaswikapoor/.nuget/packages/google.apis.core/1.61.0/google.apis.core.1.61.0.nupkg.sha512",
+    "/Users/tejaswikapoor/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/tejaswikapoor/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/tejaswikapoor/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/tejaswikapoor/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/tejaswikapoor/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/tejaswikapoor/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/tejaswikapoor/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
